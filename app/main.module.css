@@ -1,0 +1,8 @@
+.mainSection {
+  min-height: 500px;
+  background-image: url("../public/hotel-image.png");
+  background-size: cover;
+}
+.mainSectionContent {
+  backdrop-filter: blur(6px);
+}
